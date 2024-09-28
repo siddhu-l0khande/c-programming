@@ -12,7 +12,7 @@ int main(){
     int i = min; //min value asign ki i mai accha lagne ke liye 
     while(i<=max){
           if (i%num1==0 && i%num2==0){
-            printf("the locm is %d",i);
+            printf("the lcm is %d",i);
           }
           break;
     }
